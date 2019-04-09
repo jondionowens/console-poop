@@ -4,7 +4,7 @@
 	"description": "Easily create console logs that print out \"Poop!\" for easy to spot debugging",
 	"version": "0.0.1",
 	"engines": {
-		"vscode": "^1.33.0"
+		"vscode": "^1.32.0"
 	},
 	"categories": [
 		"Other"
